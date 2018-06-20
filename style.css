@@ -1,0 +1,21 @@
+.container-fluid {
+    padding: 0;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.black_article {
+    background-color: red;
+    color: black;
+}
+
+.white_article {
+    background-color: lightgreen;
+    color: black;
+}
+
+.bottom_nav {
+    background-color: lightblue;
+}

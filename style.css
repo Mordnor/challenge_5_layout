@@ -89,3 +89,8 @@ address {
     width: 60%;
     margin:10% 0 0 11%;
 }
+
+
+.recent-release h4 {
+    margin-bottom: 1.5em;
+}

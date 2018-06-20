@@ -2,13 +2,18 @@
     padding: 0;
 }
 
+.col-12 {
+    padding: 0;
+}
+
 .navbar {
     background-color: black;
 }
 
 .black_article {
-    background-color: red;
-    color: black;
+    background-color: black;
+    color: white;
+
 }
 
 .white_article {
@@ -16,6 +21,23 @@
     color: black;
 }
 
-.bottom_nav {
+.nav_bottom {
     background-color: lightblue;
+}
+
+h4 {
+    font-size: 0.7em;
+
+}
+
+h3 {
+    font-size: 0.8em;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5em;
 }

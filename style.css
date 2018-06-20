@@ -57,7 +57,27 @@ address {
 
 .aside_main {
     border: 3px solid black;
-    margin: 17% 3%;
+    margin: 17% 0% 3%;
     border-right: none;
     border-left: none;
+}
+
+.featured_video h3 {
+    font-size: 1em;
+    margin-bottom: 1.5em;
+}
+
+.featured_video p {
+    font-size: 0.6em;
+    margin-top: 1.5%;
+    padding: 0 3%;
+}
+
+.featured_video img {
+    padding: 0 3%;
+}
+
+.form-control{
+    padding: 0 2em;
+    margin-top: 10%;
 }
